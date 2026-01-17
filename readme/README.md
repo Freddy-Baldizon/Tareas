@@ -29,7 +29,7 @@ puede ser la h, o, l y la a, mientras que la hilera es la palabra hola ya que es
 una lista de caracter. Además, en Java un carácter se representa mediante el tipo de dato char el cual almacena un solo símbolo, mientras que una hilera de caracteres se representa mediante String.
 
 Operaciones que se pueden realizar con una hilera:
->Unir hileras con el operado +.
+>Unir hileras.
 >Comparar String.
 >Convertir mayúscula.
 >Longitud de una hilera.
