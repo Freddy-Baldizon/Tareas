@@ -39,7 +39,8 @@ Operaciones que se pueden realizar con una hilera:
 >Separar String en caracteres.
 >Une lista de String con String.
 
-Referencia:
-https://www.bing.com/ck/a?!&&p=355cc333db77561f70f6d5ccd6329f2d187f7d2cb47292be18802713477a4bc1JmltdHM9MTc2ODYwODAwMA&ptn=3&ver=2&hsh=4&fclid=15ded262-58eb-6d45-2aca-c42659446c3f&psq=que+es+una+hilera+de+caracteres%3f&u=a1aHR0cHM6Ly9zaXZhbmFoYW1lci5naXRodWIuaW8vcHJpbmNpcGlvcy1pbmZvcm1hdGljYS9wcmVzZW50YWNpb25lcy8xMi1IaWxlcmFzLnBkZg 
+Referencias:
+AsociacionapNes. (s. f.). Cadena de caracteres: Todo lo que necesitas saber sobre este elemento esencial de la programación. https://www.bing.com/ck/a?!&&p=718552d2f4d5e53d12cee75b351e21d161490e6e673d25f60ed6a7d92aa60319JmltdHM9MTc2ODYwODAwMA&ptn=3&ver=2&hsh=4&fclid=15ded262-58eb-6d45-2aca-c42659446c3f&psq=que+es+una+hilera+de+caracteres%3f&u=a1aHR0cHM6Ly9hc29jaWFjaW9uYXBuZXMuY29tL2NhZGVuYS1kZS1jYXJhY3RlcmVzLXRvZG8tbG8tcXVlLW5lY2VzaXRhcy1zYWJlci1zb2JyZS1lc3RlLWVsZW1lbnRvLWVzZW5jaWFsLWRlLWxhLXByb2dyYW1hY2lvbi8 
 
-https://www.bing.com/ck/a?!&&p=d37139a290fc817ee5762111b64b642d6e281251793759c4ff51bb4072199a92JmltdHM9MTc2ODYwODAwMA&ptn=3&ver=2&hsh=4&fclid=15ded262-58eb-6d45-2aca-c42659446c3f&u=a1aHR0cHM6Ly9hc29jaWFjaW9uYXBuZXMuY29tL2NhZGVuYS1kZS1jYXJhY3RlcmVzLXRvZG8tbG8tcXVlLW5lY2VzaXRhcy1zYWJlci1zb2JyZS1lc3RlLWVsZW1lbnRvLWVzZW5jaWFsLWRlLWxhLXByb2dyYW1hY2lvbi8&ntb=1
+Sivana Hamer. (s. f.). Hileras de caracteres [PDF]. https://www.bing.com/ck/a?!&&p=355cc333db77561f70f6d5ccd6329f2d187f7d2cb47292be18802713477a4bc1JmltdHM9MTc2ODYwODAwMA&ptn=3&ver=2&hsh=4&fclid=15ded262-58eb-6d45-2aca-c42659446c3f&psq=que+es+una+hilera+de+caracteres%3f&u=a1aHR0cHM6Ly9zaXZhbmFoYW1lci5naXRodWIuaW8vcHJpbmNpcGlvcy1pbmZvcm1hdGljYS9wcmVzZW50YWNpb25lcy8xMi1IaWxlcmFzLnBkZg 
+
