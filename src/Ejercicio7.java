@@ -8,9 +8,11 @@ public class Ejercicio7 {
         System.out.println("Ingrese una palabra para invertirla");
         word = sc.nextLine();
 
-        for(int i = 0; i < word.length() -1 ; i ++){
-           invertir += word.charAt(i);
+        for (int i = word.length() - 1; i >= 0; i--) {
+            invertir += word.charAt(i);
         }
         System.out.println("La palabra invertida es: " + invertir);
+
+       
     }
 }

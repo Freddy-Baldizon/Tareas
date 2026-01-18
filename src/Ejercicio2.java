@@ -7,6 +7,6 @@ public class Ejercicio2 {
         System.out.println("Ingrese una palabra para saber el primer o ultimo caracter");
         word = sc.nextLine();
         System.out.println("La primera letra es: " + word.charAt(0)
-                 + "\nla ultima letra es: " + word.charAt(word.length() -1));
+                 + "\nLa ultima letra es: " + word.charAt(word.length()-1));
     }
 }
