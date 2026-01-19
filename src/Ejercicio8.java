@@ -8,7 +8,9 @@ public class Ejercicio8 {
         password = sc.nextLine();
         boolean tieneMayuscula = false;
         for(int i = 0; i< password.length();i++){
-           
+           if (Character.isUpperCase(password.charAt(i))) {
+                tieneMayuscula = true;
+           }
         }
 
         if (password.length() >= 8 && tieneMayuscula ) {
